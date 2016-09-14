@@ -10,8 +10,12 @@ text-align: center;}
 #AboveBackPhoto{
 background-color: #e6e6e6;
 width: 80%;
-height: 40%;
-margin: auto;
+padding-top: 5%;
+padding-bottom: 5%;
+margin-top: 4%;
+margin-bottom: 4%;
+margin-left: 10%;
+margin-right: 10%;
 border: double black;
 z-index: 5;
 }
@@ -22,7 +26,7 @@ text-align: center;
 
 #MainImage{
 display: block;
-width: 30%;
+width: 50%;
 border: 3px solid black;
 margin: auto;
 }
