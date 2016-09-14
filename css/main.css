@@ -8,10 +8,11 @@ h4, p {
 text-align: center;}
 
 #AboveBackPhoto{
-background-color: #cccccc;
+background-color: #e6e6e6;
 width: 80%;
 height: 40%;
 margin: auto;
+border: double black;
 z-index: 5;
 }
 
@@ -22,7 +23,9 @@ text-align: center;
 #MainImage{
 display: block;
 width: 30%;
+border: 3px solid black;
 margin: auto;
 }
+
 
 

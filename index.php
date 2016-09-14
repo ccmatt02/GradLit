@@ -11,8 +11,13 @@
 <body>
 
 <div id ="AboveBackPhoto">
+
+
+    <br>
+
     <h1 id="SampleText">Matthew Sanders</h1>
     <img src="images/msanders.jpg" id="MainImage">
+
 
     <h4>Project 2 Title</h2>
     <p>View Project: [link]</p>
@@ -25,6 +30,8 @@
     <h4>Project 3 Title</h2>
     <p>View Project: [link]</p>
     <p>View GitHub Repository: [link]</p>
+
+    <br>
 
 </div>
 
