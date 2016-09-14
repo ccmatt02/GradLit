@@ -9,7 +9,7 @@
 <body>
 
 	<?php
-	echo Project one to come!
+	echo "Project one to come!";
 	?>
 
 </body>
