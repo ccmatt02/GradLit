@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/oceanbackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h4, p {
+text-align: center;}
+
+#AboveBackPhoto{
+background-color: #cccccc;
+width: 80%;
+height: 40%;
+margin: auto;
+z-index: 5;
+}
+
+#SampleText{
+text-align: center;
+}
+
+#MainImage{
+display: block;
+width: 30%;
+margin: auto;
+}
+
+
